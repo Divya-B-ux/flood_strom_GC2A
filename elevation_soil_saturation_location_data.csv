@@ -1,0 +1,501 @@
+elevation,soil_saturation,location
+69,0.0,Andhra Pradesh
+33,0.1,West Bengal
+7,0.6,Madhya Pradesh
+94,0.4,Jammu and Kashmir
+72,0.1,Gujarat
+84,1.0,Maharashtra
+7,0.9,West Bengal
+67,0.3,Odisha
+85,0.5,Karnataka
+91,0.5,Maharashtra
+67,0.5,Madhya Pradesh
+84,1.0,Madhya Pradesh
+71,0.1,Punjab
+83,0.0,Chhattisgarh
+95,0.5,Punjab
+0,0.5,Tamil Nadu
+5,0.2,Himachal Pradesh
+91,0.1,Maharashtra
+30,0.1,Telangana
+73,0.9,Odisha
+83,0.4,Bihar
+7,0.4,Himachal Pradesh
+21,0.0,Telangana
+92,0.4,Haryana
+8,0.7,Andhra Pradesh
+43,0.6,Rajasthan
+46,0.9,Rajasthan
+0,0.7,Tamil Nadu
+51,0.3,West Bengal
+38,0.3,Andhra Pradesh
+89,0.8,Karnataka
+74,0.8,Rajasthan
+98,0.3,Maharashtra
+87,0.7,Haryana
+96,0.6,Karnataka
+83,0.4,Kerala
+26,0.5,Tamil Nadu
+78,0.1,Tamil Nadu
+32,0.7,Haryana
+70,0.0,Telangana
+97,0.9,Karnataka
+44,0.7,Haryana
+59,0.9,Odisha
+57,0.0,Haryana
+50,0.9,Rajasthan
+45,1.0,Maharashtra
+4,0.8,Tamil Nadu
+57,1.0,Andhra Pradesh
+93,0.4,Assam
+91,0.8,Bihar
+17,0.8,Bihar
+35,0.7,Jammu and Kashmir
+66,0.6,Uttar Pradesh
+20,0.3,Odisha
+45,0.5,Telangana
+57,0.3,Uttar Pradesh
+79,0.0,Chhattisgarh
+36,0.0,Himachal Pradesh
+62,0.1,Rajasthan
+4,0.5,Maharashtra
+77,0.2,Andhra Pradesh
+30,0.4,Odisha
+87,0.1,Andhra Pradesh
+98,0.9,Himachal Pradesh
+35,0.9,Himachal Pradesh
+73,0.9,Haryana
+90,0.3,Uttar Pradesh
+55,0.7,West Bengal
+26,0.4,Maharashtra
+22,0.3,Madhya Pradesh
+76,0.1,Andhra Pradesh
+79,0.4,Maharashtra
+98,0.4,Chhattisgarh
+90,0.2,Rajasthan
+51,0.4,West Bengal
+46,0.1,Telangana
+80,0.9,Bihar
+61,0.7,Tamil Nadu
+60,0.2,Telangana
+47,0.9,Andhra Pradesh
+0,0.6,Karnataka
+10,0.5,Odisha
+75,0.6,Telangana
+13,0.3,Gujarat
+71,0.6,Tamil Nadu
+94,0.1,Uttar Pradesh
+6,0.2,Tamil Nadu
+45,0.5,Odisha
+30,0.1,Jammu and Kashmir
+15,0.9,Haryana
+41,0.4,Uttar Pradesh
+38,0.2,Haryana
+53,0.6,Rajasthan
+43,0.7,Delhi
+82,0.6,Rajasthan
+7,0.6,Tamil Nadu
+92,0.2,Gujarat
+65,0.7,Rajasthan
+41,1.0,Uttar Pradesh
+66,0.6,Haryana
+92,0.3,Maharashtra
+78,0.8,Delhi
+91,0.8,Rajasthan
+100,0.4,Gujarat
+31,0.4,Madhya Pradesh
+93,0.9,Tamil Nadu
+50,0.7,Andhra Pradesh
+46,0.0,Chhattisgarh
+93,0.4,Punjab
+33,0.1,Himachal Pradesh
+12,1.0,Delhi
+96,0.6,Assam
+80,0.6,West Bengal
+66,0.4,Kerala
+72,0.7,Jammu and Kashmir
+10,0.6,Himachal Pradesh
+90,0.8,Chhattisgarh
+27,0.9,Haryana
+56,0.4,Delhi
+65,0.9,Maharashtra
+64,0.1,Tamil Nadu
+69,0.7,Gujarat
+88,0.2,Odisha
+34,0.5,Odisha
+79,0.8,Kerala
+3,0.7,Bihar
+60,0.7,Jammu and Kashmir
+37,0.5,Chhattisgarh
+43,0.2,Tamil Nadu
+83,0.2,Karnataka
+88,0.5,Maharashtra
+70,0.4,Rajasthan
+20,1.0,Punjab
+6,0.3,Chhattisgarh
+28,0.1,Chhattisgarh
+6,0.7,Telangana
+66,1.0,Chhattisgarh
+92,0.8,Karnataka
+92,0.2,West Bengal
+69,0.0,Madhya Pradesh
+73,0.4,Chhattisgarh
+100,0.9,Uttar Pradesh
+54,0.4,Tamil Nadu
+77,0.3,Assam
+21,0.9,Andhra Pradesh
+31,0.8,Maharashtra
+81,0.6,Assam
+35,0.0,Bihar
+8,0.9,Madhya Pradesh
+25,0.7,West Bengal
+21,0.2,Tamil Nadu
+45,0.0,Madhya Pradesh
+86,0.0,Jammu and Kashmir
+16,0.9,Rajasthan
+25,0.7,Maharashtra
+37,0.7,Rajasthan
+1,0.6,Tamil Nadu
+5,0.5,Assam
+70,0.5,Haryana
+12,0.6,Uttar Pradesh
+90,0.7,Tamil Nadu
+74,0.4,Madhya Pradesh
+54,0.7,Gujarat
+78,0.5,Gujarat
+62,0.1,Rajasthan
+72,0.2,Jammu and Kashmir
+71,0.1,Jammu and Kashmir
+45,0.3,Chhattisgarh
+5,0.6,Uttar Pradesh
+47,0.4,Haryana
+59,0.7,Delhi
+42,0.7,Madhya Pradesh
+67,0.1,Kerala
+10,0.2,Kerala
+57,0.1,Delhi
+91,0.3,Punjab
+89,0.3,West Bengal
+3,0.1,Punjab
+78,0.6,Gujarat
+82,0.7,Punjab
+69,0.2,Andhra Pradesh
+58,0.3,Jammu and Kashmir
+4,0.7,Assam
+17,0.7,Rajasthan
+69,0.9,West Bengal
+63,0.6,Tamil Nadu
+94,0.0,Gujarat
+24,0.1,Karnataka
+3,0.1,Maharashtra
+69,0.5,Haryana
+40,0.8,Himachal Pradesh
+36,0.0,Madhya Pradesh
+58,0.5,Gujarat
+49,0.8,Delhi
+55,0.7,Chhattisgarh
+24,0.5,Telangana
+33,0.6,Telangana
+18,0.9,Rajasthan
+97,0.6,Telangana
+78,0.4,Himachal Pradesh
+7,0.7,Haryana
+53,0.4,Maharashtra
+46,1.0,Rajasthan
+33,0.9,Andhra Pradesh
+81,0.2,Karnataka
+29,0.7,Tamil Nadu
+12,0.0,Chhattisgarh
+46,0.9,Rajasthan
+32,0.8,Rajasthan
+34,0.5,Punjab
+87,0.1,Himachal Pradesh
+25,0.6,Tamil Nadu
+46,0.2,Assam
+52,0.6,Kerala
+64,0.7,Chhattisgarh
+76,0.1,Bihar
+73,0.5,Uttar Pradesh
+18,0.6,Punjab
+4,0.3,Chhattisgarh
+7,0.2,Tamil Nadu
+3,0.6,Himachal Pradesh
+48,0.8,Punjab
+76,0.4,Odisha
+37,0.7,Odisha
+48,0.6,Punjab
+82,0.8,West Bengal
+51,0.2,Madhya Pradesh
+49,0.8,Madhya Pradesh
+71,0.3,Jammu and Kashmir
+90,0.3,Bihar
+49,1.0,Karnataka
+29,0.0,Rajasthan
+3,0.2,Assam
+74,0.5,Chhattisgarh
+84,0.4,Kerala
+65,0.2,Himachal Pradesh
+20,0.7,Delhi
+80,0.7,Himachal Pradesh
+42,1.0,Kerala
+28,0.9,Punjab
+26,1.0,Karnataka
+87,0.4,Tamil Nadu
+52,0.0,Haryana
+48,0.3,Tamil Nadu
+66,0.5,Himachal Pradesh
+9,0.2,Andhra Pradesh
+2,0.1,Andhra Pradesh
+89,0.5,Delhi
+100,0.9,Himachal Pradesh
+90,0.8,Kerala
+68,0.3,Tamil Nadu
+10,0.9,Kerala
+12,0.7,Gujarat
+97,0.5,Assam
+37,0.3,Bihar
+39,0.6,Jammu and Kashmir
+32,0.2,West Bengal
+33,0.7,Odisha
+26,0.9,Maharashtra
+99,0.7,Haryana
+89,0.7,Odisha
+50,0.2,Karnataka
+88,0.7,Bihar
+82,0.5,Telangana
+20,0.1,Rajasthan
+94,0.4,Tamil Nadu
+28,0.7,Maharashtra
+72,0.6,Rajasthan
+18,0.3,Maharashtra
+25,1.0,Uttar Pradesh
+24,0.6,Chhattisgarh
+39,0.9,West Bengal
+28,0.6,Rajasthan
+24,0.6,Himachal Pradesh
+18,0.1,Haryana
+67,0.1,Chhattisgarh
+44,0.6,Karnataka
+83,0.7,Bihar
+45,0.2,Uttar Pradesh
+54,1.0,Maharashtra
+0,0.7,Karnataka
+10,0.2,Gujarat
+67,0.6,Delhi
+6,0.3,West Bengal
+91,0.7,Odisha
+99,0.6,Maharashtra
+57,0.8,Bihar
+70,0.3,Bihar
+19,0.9,Bihar
+34,1.0,Punjab
+50,0.2,Jammu and Kashmir
+20,0.5,Kerala
+43,0.9,Bihar
+0,0.3,Telangana
+100,0.2,Rajasthan
+66,0.7,Madhya Pradesh
+97,1.0,Himachal Pradesh
+12,0.5,Telangana
+15,0.4,Kerala
+33,0.4,Assam
+23,0.8,Andhra Pradesh
+12,0.7,Himachal Pradesh
+5,0.3,Karnataka
+38,1.0,Maharashtra
+1,0.9,Delhi
+10,0.7,Tamil Nadu
+6,0.4,Tamil Nadu
+6,0.2,Uttar Pradesh
+38,0.7,Gujarat
+75,0.8,Karnataka
+85,0.6,Haryana
+50,0.5,Andhra Pradesh
+51,0.1,Karnataka
+2,0.8,Andhra Pradesh
+76,0.5,Haryana
+29,0.9,Punjab
+9,0.1,Andhra Pradesh
+72,1.0,Uttar Pradesh
+5,0.5,Gujarat
+53,0.1,Himachal Pradesh
+65,0.3,Assam
+43,0.9,Uttar Pradesh
+79,0.3,Uttar Pradesh
+62,1.0,Uttar Pradesh
+76,0.4,Chhattisgarh
+47,0.4,Assam
+76,0.8,Haryana
+21,0.5,Gujarat
+18,0.1,Telangana
+89,0.8,Chhattisgarh
+13,0.8,Jammu and Kashmir
+94,0.5,Karnataka
+92,0.0,Haryana
+85,0.1,Kerala
+6,0.7,Madhya Pradesh
+100,0.6,Bihar
+48,0.7,Madhya Pradesh
+40,0.4,Punjab
+26,0.6,West Bengal
+30,0.4,Haryana
+5,0.4,Uttar Pradesh
+15,0.4,West Bengal
+63,0.0,Telangana
+37,0.1,Madhya Pradesh
+59,0.8,Gujarat
+95,0.7,Tamil Nadu
+96,0.2,Punjab
+80,0.1,Telangana
+32,0.0,Odisha
+62,0.5,Chhattisgarh
+10,0.6,Madhya Pradesh
+12,0.9,Jammu and Kashmir
+93,0.9,Rajasthan
+64,0.4,Haryana
+29,0.9,Kerala
+90,0.5,Uttar Pradesh
+22,0.6,Odisha
+19,0.2,Odisha
+5,0.1,Odisha
+36,0.2,Uttar Pradesh
+83,0.1,Karnataka
+100,0.2,Telangana
+5,0.5,Gujarat
+92,0.9,Karnataka
+76,0.8,Karnataka
+26,0.0,Jammu and Kashmir
+83,0.7,Rajasthan
+12,0.0,Haryana
+7,1.0,Tamil Nadu
+52,0.8,Haryana
+80,0.2,Odisha
+29,0.5,Himachal Pradesh
+0,0.7,Delhi
+87,0.8,Tamil Nadu
+79,0.2,Telangana
+74,0.1,Madhya Pradesh
+3,0.9,Himachal Pradesh
+61,0.7,Jammu and Kashmir
+67,0.9,Maharashtra
+16,0.2,Himachal Pradesh
+73,0.1,Tamil Nadu
+84,0.4,Madhya Pradesh
+56,0.3,West Bengal
+62,0.1,Madhya Pradesh
+56,0.6,Bihar
+48,0.3,Tamil Nadu
+17,0.5,Karnataka
+57,0.3,Jammu and Kashmir
+9,0.9,Assam
+62,0.5,Karnataka
+79,0.9,Tamil Nadu
+78,0.0,West Bengal
+33,0.5,Maharashtra
+4,0.5,Odisha
+16,0.3,Tamil Nadu
+100,0.3,Bihar
+71,0.3,Andhra Pradesh
+62,0.2,Kerala
+23,0.5,Tamil Nadu
+91,0.3,Rajasthan
+7,0.3,Assam
+22,0.1,Telangana
+98,0.0,Odisha
+30,0.9,Kerala
+80,0.4,Tamil Nadu
+27,0.7,Himachal Pradesh
+47,0.5,Jammu and Kashmir
+11,0.2,Jammu and Kashmir
+87,0.9,Haryana
+78,0.1,Madhya Pradesh
+30,0.5,Chhattisgarh
+90,0.1,Odisha
+34,0.2,Punjab
+54,0.7,Telangana
+81,0.5,Haryana
+35,0.6,Maharashtra
+71,0.8,Chhattisgarh
+59,0.1,Himachal Pradesh
+37,0.9,Punjab
+68,0.7,Madhya Pradesh
+53,0.6,Delhi
+13,0.0,Maharashtra
+19,0.9,Himachal Pradesh
+8,0.0,Maharashtra
+96,0.2,Odisha
+81,0.9,Karnataka
+69,0.1,Karnataka
+100,0.4,Bihar
+1,0.8,Andhra Pradesh
+29,0.6,Kerala
+5,0.7,Haryana
+80,0.2,Odisha
+40,0.4,Bihar
+22,0.5,Gujarat
+30,0.2,Delhi
+19,1.0,Gujarat
+4,0.7,Tamil Nadu
+20,0.9,Rajasthan
+74,0.4,Jammu and Kashmir
+67,0.9,Andhra Pradesh
+86,0.3,Maharashtra
+60,0.2,Karnataka
+93,0.8,Andhra Pradesh
+41,1.0,Telangana
+40,0.1,Andhra Pradesh
+60,0.1,Madhya Pradesh
+81,0.3,Chhattisgarh
+51,0.5,Assam
+40,0.7,Kerala
+59,1.0,Punjab
+94,0.1,Bihar
+29,0.4,Tamil Nadu
+97,0.3,Kerala
+94,0.8,Odisha
+37,0.2,Jammu and Kashmir
+88,0.9,Uttar Pradesh
+16,0.8,Himachal Pradesh
+99,0.9,Karnataka
+39,1.0,Uttar Pradesh
+29,0.6,Telangana
+65,0.5,Assam
+23,0.5,Bihar
+72,0.9,West Bengal
+0,0.2,Delhi
+87,0.4,Tamil Nadu
+37,0.6,Andhra Pradesh
+63,0.7,West Bengal
+26,0.1,Odisha
+89,1.0,Himachal Pradesh
+89,0.3,Punjab
+6,0.2,Haryana
+88,0.3,Karnataka
+79,1.0,Tamil Nadu
+41,0.7,West Bengal
+17,0.2,Punjab
+80,0.2,West Bengal
+43,0.1,West Bengal
+69,0.4,Delhi
+19,0.8,Haryana
+22,0.3,West Bengal
+11,0.4,Maharashtra
+11,0.8,Haryana
+33,0.7,Jammu and Kashmir
+7,0.4,Tamil Nadu
+26,0.2,Madhya Pradesh
+48,0.9,Odisha
+71,0.6,Kerala
+54,0.3,Maharashtra
+96,0.2,Tamil Nadu
+100,0.4,Karnataka
+82,0.4,Haryana
+87,0.1,Punjab
+21,0.9,Assam
+2,0.8,Kerala
+8,0.5,Chhattisgarh
+10,0.3,Maharashtra
+5,0.2,Telangana
+38,0.2,Kerala
+38,0.2,Himachal Pradesh
+100,0.2,Karnataka
