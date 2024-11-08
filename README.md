@@ -1,1 +1,2 @@
-# flood_strom_GC2A
+# Grid-based Cellular Automaton Algorithm (GC2A)
+GC2A enhances flood detection accuracy and robustness in image processing , elevation and soil saturation data. Achieving 95% accuracy and high PSNR and SSIM scores, it outperforms baseline methods. The algorithm adapts to environmental variables, offering reliable flood detection and disaster response support. Future work aims to refine GC2A’s cross-domain applicability.
